@@ -1,0 +1,15 @@
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\bin\Debug\net7.0\Decomposi-o-Decimal.exe
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\bin\Debug\net7.0\Decomposi-o-Decimal.deps.json
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\bin\Debug\net7.0\Decomposi-o-Decimal.runtimeconfig.json
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\bin\Debug\net7.0\Decomposi-o-Decimal.dll
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\bin\Debug\net7.0\Decomposi-o-Decimal.pdb
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\obj\Debug\net7.0\Decomposi-o-Decimal.csproj.AssemblyReference.cache
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\obj\Debug\net7.0\Decomposi-o-Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\obj\Debug\net7.0\Decomposi-o-Decimal.AssemblyInfoInputs.cache
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\obj\Debug\net7.0\Decomposi-o-Decimal.AssemblyInfo.cs
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\obj\Debug\net7.0\Decomposi-o-Decimal.csproj.CoreCompileInputs.cache
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\obj\Debug\net7.0\Decomposi-o-Decimal.dll
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\obj\Debug\net7.0\refint\Decomposi-o-Decimal.dll
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\obj\Debug\net7.0\Decomposi-o-Decimal.pdb
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\obj\Debug\net7.0\Decomposi-o-Decimal.genruntimeconfig.cache
+C:\Users\thur0\Documents\yukio\Decomposi-o-Decimal\obj\Debug\net7.0\ref\Decomposi-o-Decimal.dll
